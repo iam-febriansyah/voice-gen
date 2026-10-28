@@ -1,0 +1,7 @@
+{
+  "name": "Faura Voice Studio - Indonesian Promo Voice-Over",
+  "description": "Studio-grade Indonesian female voice-over generator for Faura Bouquet 30-second promotional video using gemini-3.8-flash-tts with synchronized subtitles and audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
